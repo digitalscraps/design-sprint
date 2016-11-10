@@ -1,12 +1,12 @@
 # Background Roundup
 
-To prepare for our design sprint, it would be great to have:
+To prepare for design sprint
 
 (1) a list of websites similar to parts of what we want to create, as well as other websites with aspects we may wish to emulate
 
-(2) information about each of your key customer types: who they are, their stories, and how they feel about the problem we are working to solve. If there's documentation from interviews you conducted with them, we'd love to see that too.
+(2) information about each of your key customer types: who they are, their stories, and how they feel about the problem we are working to solve. Documentation from interviews you conducted with them.
 
-(3) Any existing materials you already have on hand, such as user stories, wireframes, or prototypes. No need to flesh these out more than you already have, but they'd be great background. Note that what we end up with at the end of the sprint may be different.
+(3) Any existing materials you already have on hand, such as user stories, wireframes, or prototypes. No need to flesh these out more than you already have, but they'd be great background.
 
 (4) Any other background materials you already have.
 
