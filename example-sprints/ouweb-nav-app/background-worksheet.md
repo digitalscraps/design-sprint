@@ -18,5 +18,6 @@ Please conduct at least three(3) customer interviews.
 
 * Who are the customers?
 
+Students, Faculity, Visting Scholars, Members of the public
 * What are their stories?
 * How do they feel about the stated problem?
